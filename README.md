@@ -1,7 +1,7 @@
-# Telemetria Agro Industrial
+# Firmware em C
 
-* Aqui ficarão todos os arquios de DEV do projeto em questão.
+* Escrever um readme inteligente e assertivo 
 
-* Cada branch deve ser usado para versionamento de arquivos e não só como armazenador 
-
-* Qualquer duvida tratar com Cesar Vinicius
+Encarregados:
+  - pessoa 1
+  - pessoa 2
