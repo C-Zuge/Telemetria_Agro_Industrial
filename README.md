@@ -1,7 +1,8 @@
-# Telemetria Agro Industrial
+# Aplicação em Socket
 
-* Aqui ficarão todos os arquios de DEV do projeto em questão.
+Este será o mediador do campo (Firmware/Telecom) com o App
 
-* Cada branch deve ser usado para versionamento de arquivos e não só como armazenador 
-
+Encarregado: 
+  - Cesar Vinicius
+  
 * Qualquer duvida tratar com Cesar Vinicius
