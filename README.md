@@ -4,5 +4,5 @@
 * Escrever um readme inteligente e assertivo 
 
 Encarregados:
-  - pessoa 1
+  - Luís Fabiano Júnior
   - pessoa 2
