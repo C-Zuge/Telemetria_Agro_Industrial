@@ -1,4 +1,5 @@
-# Firmware em C
+# Firmware em C 
+# Telecomunicações em (Linguagem aqui)
 
 * Escrever um readme inteligente e assertivo 
 
